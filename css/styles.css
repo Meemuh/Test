@@ -19,5 +19,6 @@
 
       /**CLASS SELECTOS**/
       .profile-pic{
+        height: 200px;
         border-radius: 100%;
       }
