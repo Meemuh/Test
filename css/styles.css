@@ -17,8 +17,8 @@
     color: #876445;
       }
 
-      /**CLASS SELECTOS**/
+      /**CLASS SELECTORS**/
       .profile-pic{
         height: 200px;
-        border-radius: 100%;
+        /*border-radius: 100%;*/
       }
