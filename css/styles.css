@@ -1,0 +1,23 @@
+  body {
+    background-color: #F4DFBA;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #CA965C;
+    border-width: 5px;
+    width: 10%;
+  }
+
+  h1 {
+    color: #876445;
+      }
+
+  h3 {
+    color: #876445;
+      }
+
+      /**CLASS SELECTOS**/
+      .profile-pic{
+        border-radius: 100%;
+      }
